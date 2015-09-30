@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 毛詩李黃集解
-#+DATE: 2015-09-23 09:36:32
-#+PROPERTY: JUAN 25
+#+DATE: 2015-08-24 22:04:33.705138
+#+PROPERTY: ID KR1c0012
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十五
 <pb:KR1c0012_WYG_025-1a>¶
 欽定四庫全書¶
 　毛詩集解卷二十五　　宋　李樗黄櫄　撰¶
@@ -506,4 +508,3 @@
 　述不能服天下而光武得之但見其朋友之間已自¶
 　有優劣矣況其他大節乎¶
 　毛詩集解卷二十五¶
-

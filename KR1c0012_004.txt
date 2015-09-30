@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 毛詩李黃集解
-#+DATE: 2015-09-23 09:36:32
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 22:04:33.249419
+#+PROPERTY: ID KR1c0012
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四
 <pb:KR1c0012_WYG_004-1a>¶
 欽定四庫全書¶
 　毛詩集觧卷四　　　　宋　李樗黄櫄　撰¶
@@ -740,4 +742,3 @@
 　¶
 　¶
 　毛詩集觧卷四¶
-

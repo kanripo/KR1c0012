@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 毛詩李黃集解
-#+DATE: 2015-09-23 09:36:32
-#+PROPERTY: JUAN 7
+#+DATE: 2015-08-24 22:04:33.316120
+#+PROPERTY: ID KR1c0012
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七
 <pb:KR1c0012_WYG_007-1a>¶
 欽定四庫全書¶
 　毛詩集解卷七　　　　宋　李樗黃櫄　撰¶
@@ -668,4 +670,3 @@
 　¶
 　¶
 　毛詩集解卷七¶
-
